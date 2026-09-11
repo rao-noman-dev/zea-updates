@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.raomuhammadnoman.zea",
+  "channel": "stable",
+  "versionCode": 111,
+  "versionName": "1.0.2",
+  "apkUrl": "https://rao-noman-dev.github.io/zea-updates/releases/111/zyro-111.apk",
+  "sha256": "669b737b125090a077d41c30deb2c5b552d65b2b0015fc318f324877c8a78415",
+  "fileSizeBytes": 22617680,
+  "publishedAt": "2026-09-11T05:47:32Z",
+  "releaseNotes": "Improved app browsing with a uniform 4-column grid layout."
+}
