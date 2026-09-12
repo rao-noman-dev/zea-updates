@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "packageName": "com.raomuhammadnoman.zea",
   "channel": "stable",
-  "versionCode": 115,
-  "versionName": "1.0.5",
-  "apkUrl": "https://rao-noman-dev.github.io/zea-updates/releases/115/zyro-115.apk",
-  "sha256": "ae9f5a47b8061313f36bc3fd90feffc9db244404e3bf4eb4eb4aa28a8a2f9617",
-  "fileSizeBytes": 15597113,
+  "versionCode": 116,
+  "versionName": "1.0.6",
+  "apkUrl": "https://rao-noman-dev.github.io/zea-updates/releases/116/zyro-116.apk",
+  "sha256": "71181a07fa884b33823ac0ab0f0148afdf287d504a051be7329c836930d40909",
+  "fileSizeBytes": 15613497,
   "publishedAt": "2026-09-12T00:00:00Z",
-  "releaseNotes": "Phase 2/3/4: per-app usage metrics, decoy launcher, protection pause prevention. Device Owner-only."
+  "releaseNotes": "Special App Controls for Play Store protection, transient notification cleanup, combined Phase 1/2 regression tests."
 }
