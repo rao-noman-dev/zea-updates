@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "packageName": "com.raomuhammadnoman.zea",
   "channel": "stable",
-  "versionCode": 112,
-  "versionName": "1.0.3",
-  "apkUrl": "https://rao-noman-dev.github.io/zea-updates/releases/112/zyro-112.apk",
-  "sha256": "4757dc0f70c69d1d59065cf9ceadfe916dadc608eb8cdd62607d889ea52a02b5",
+  "versionCode": 113,
+  "versionName": "1.0.4",
+  "apkUrl": "https://rao-noman-dev.github.io/zea-updates/releases/113/zyro-113.apk",
+  "sha256": "06822ac1b0854fc27e89c0b288feda47eaede4740191cee001209c388b6c7cc3",
   "fileSizeBytes": 15564117,
-  "publishedAt": "2026-09-11T12:00:00Z",
-  "releaseNotes": "Complete transition to Device Owner-only architecture. Retired Standard Mode. Preserves all existing supported functionality."
+  "publishedAt": "2026-09-12T00:00:00Z",
+  "releaseNotes": "OTA version bump to 1.0.4 for device fleet update verification."
 }
