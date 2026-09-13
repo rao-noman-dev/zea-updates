@@ -1,12 +1,12 @@
 {
-    "schemaVersion":  1,
-    "packageName":  "com.raomuhammadnoman.zea",
-    "channel":  "stable",
-    "versionCode":  117,
-    "versionName":  "1.0.7",
-    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/117/zyro-117.apk",
-    "sha256":  "c07ef21b00c92bf24381f3f12e8ef96f727be5caf936acb2a04c9372b5f38536",
-    "fileSizeBytes":  15614433,
-    "publishedAt":  "2026-09-13T14:10:03Z",
-    "releaseNotes":  "Managed Home APK sharing and uninstall handling, initial-authentication Recents privacy, decoy Recents identity hardening, and Play Store protected Update-action hardening."
+  "schemaVersion": 1,
+  "packageName": "com.raomuhammadnoman.zea",
+  "channel": "stable",
+  "versionCode": 116,
+  "versionName": "1.0.6",
+  "apkUrl": "https://rao-noman-dev.github.io/zea-updates/releases/116/zyro-116.apk",
+  "sha256": "71181a07fa884b33823ac0ab0f0148afdf287d504a051be7329c836930d40909",
+  "fileSizeBytes": 15613497,
+  "publishedAt": "2026-09-12T00:00:00Z",
+  "releaseNotes": "Special App Controls for Play Store protection, transient notification cleanup, combined Phase 1/2 regression tests."
 }
