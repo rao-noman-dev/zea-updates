@@ -2,11 +2,11 @@
     "schemaVersion":  1,
     "packageName":  "com.raomuhammadnoman.zea",
     "channel":  "stable",
-    "versionCode":  118,
-    "versionName":  "1.0.8",
-    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/118/zyro-118.apk",
-    "sha256":  "4f5c6863b6f7bebb4804a6451f059b4de96dd6fafd3fd66f25bfffee38dbc84a",
-    "fileSizeBytes":  15614433,
-    "publishedAt":  "2026-09-13T14:49:44Z",
-    "releaseNotes":  "OTA hotfix with embedded production update source configuration, including the Zyro 1.0.7 feature set."
+    "versionCode":  119,
+    "versionName":  "1.0.9",
+    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/119/zyro-119.apk",
+    "sha256":  "c5296dfb989f75d9dd580481cd5898c60749329dd8a3778b941494ea62410a8e",
+    "fileSizeBytes":  15630821,
+    "publishedAt":  "2026-09-13T18:47:13Z",
+    "releaseNotes":  "Private-session recovery and protection-state hardening, with Recents and decoy-launcher resilience improvements."
 }
