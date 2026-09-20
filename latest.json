@@ -2,11 +2,11 @@
     "schemaVersion":  1,
     "packageName":  "com.raomuhammadnoman.zea",
     "channel":  "stable",
-    "versionCode":  119,
-    "versionName":  "1.0.9",
-    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/119/zyro-119.apk",
-    "sha256":  "c5296dfb989f75d9dd580481cd5898c60749329dd8a3778b941494ea62410a8e",
-    "fileSizeBytes":  15630821,
-    "publishedAt":  "2026-09-13T18:47:13Z",
-    "releaseNotes":  "Private-session recovery and protection-state hardening, with Recents and decoy-launcher resilience improvements."
+    "versionCode":  120,
+    "versionName":  "1.0.120",
+    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/120/zyro-120.apk",
+    "sha256":  "b316cfde0a21d257ec44c9137b69bbe0607ecf4a9b096bd55ce92c76c04a45eb",
+    "fileSizeBytes":  15958925,
+    "publishedAt":  "2026-09-20T12:32:06Z",
+    "releaseNotes":  "Phase 1-15 completion, reliability and recovery hardening, OTA/update improvements, and screenshot protection removal."
 }
