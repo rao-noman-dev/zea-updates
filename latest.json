@@ -2,11 +2,11 @@
     "schemaVersion":  1,
     "packageName":  "com.raomuhammadnoman.zea",
     "channel":  "stable",
-    "versionCode":  121,
-    "versionName":  "1.0.121",
-    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/121/zyro-121.apk",
-    "sha256":  "377b7c225da66366d5cd8893ddd1907fb63349c0b03b756081244802fdee4dba",
+    "versionCode":  123,
+    "versionName":  "1.0.123",
+    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/123/zyro-123.apk",
+    "sha256":  "b34f5d4e4e586441d6632aeafd52432fa2385fc35f594563ea5d25d5b5de407f",
     "fileSizeBytes":  15795093,
-    "publishedAt":  "2026-10-09T17:49:25Z",
-    "releaseNotes":  "Removed obsolete Backup \u0026 Restore, Danger Zone and reset-transaction paths; simplified app state and localization with expanded regression coverage."
+    "publishedAt":  "2026-10-10T02:22:30Z",
+    "releaseNotes":  "Restored the Settings Software Update entry point that was removed with the Backup \u0026 Restore and Danger Zone cleanup."
 }
