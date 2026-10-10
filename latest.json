@@ -2,11 +2,11 @@
     "schemaVersion":  1,
     "packageName":  "com.raomuhammadnoman.zea",
     "channel":  "stable",
-    "versionCode":  124,
-    "versionName":  "1.0.124",
-    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/124/zyro-124.apk",
-    "sha256":  "d7cc30f9f549f79477db6811d425d5457926dd7e436a09a4212be480da1d7b00",
-    "fileSizeBytes":  15844245,
-    "publishedAt":  "2026-10-10T14:37:43Z",
-    "releaseNotes":  "Phase 5 generic protection strategy diagnostics and Protection Health Phase 1-4 localized notification delivery. Bulk hide and unhide share one durable package-isolated batch ledger, and batch completion waits for the visible Apps generation."
+    "versionCode":  125,
+    "versionName":  "1.0.125",
+    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/125/zyro-125.apk",
+    "sha256":  "c0c2bca5eaacc4fe464525e444fc93da3a65eba052a2d28e13725aea105aafe2",
+    "fileSizeBytes":  15877017,
+    "publishedAt":  "2026-10-10T20:42:54Z",
+    "releaseNotes":  "Phase 5 protection strategy diagnostics, Protection Health Phase 1-4 localized notification delivery, App Security Unlock (Decoy PIN gateway hardening) and App Hub Phase 1-4 fail-closed drawer visibility. Bulk hide/unhide share one durable package-isolated batch ledger."
 }
