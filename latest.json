@@ -2,11 +2,11 @@
     "schemaVersion":  1,
     "packageName":  "com.raomuhammadnoman.zea",
     "channel":  "stable",
-    "versionCode":  123,
-    "versionName":  "1.0.123",
-    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/123/zyro-123.apk",
-    "sha256":  "b34f5d4e4e586441d6632aeafd52432fa2385fc35f594563ea5d25d5b5de407f",
-    "fileSizeBytes":  15795093,
-    "publishedAt":  "2026-10-10T02:22:30Z",
-    "releaseNotes":  "Restored the Settings Software Update entry point that was removed with the Backup \u0026 Restore and Danger Zone cleanup."
+    "versionCode":  124,
+    "versionName":  "1.0.124",
+    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/124/zyro-124.apk",
+    "sha256":  "d7cc30f9f549f79477db6811d425d5457926dd7e436a09a4212be480da1d7b00",
+    "fileSizeBytes":  15844245,
+    "publishedAt":  "2026-10-10T14:37:43Z",
+    "releaseNotes":  "Phase 5 generic protection strategy diagnostics and Protection Health Phase 1-4 localized notification delivery. Bulk hide and unhide share one durable package-isolated batch ledger, and batch completion waits for the visible Apps generation."
 }
