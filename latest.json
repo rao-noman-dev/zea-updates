@@ -2,11 +2,11 @@
     "schemaVersion":  1,
     "packageName":  "com.raomuhammadnoman.zea",
     "channel":  "stable",
-    "versionCode":  125,
-    "versionName":  "1.0.125",
-    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/125/zyro-125.apk",
-    "sha256":  "c0c2bca5eaacc4fe464525e444fc93da3a65eba052a2d28e13725aea105aafe2",
-    "fileSizeBytes":  15877017,
-    "publishedAt":  "2026-10-10T20:42:54Z",
-    "releaseNotes":  "Phase 5 protection strategy diagnostics, Protection Health Phase 1-4 localized notification delivery, App Security Unlock (Decoy PIN gateway hardening) and App Hub Phase 1-4 fail-closed drawer visibility. Bulk hide/unhide share one durable package-isolated batch ledger."
+    "versionCode":  126,
+    "versionName":  "1.0.126",
+    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/126/zyro-126.apk",
+    "sha256":  "7070bf879826b80def1921880f6f320d224b30ef2868fdb96da16b3836c2c2d7",
+    "fileSizeBytes":  15877013,
+    "publishedAt":  "2026-10-11T20:45:00Z",
+    "releaseNotes":  "App Details drawer decoy icons now publish a live refresh on release/removal, so the per-app black dot and the Visible Drawer Icons count always match the real Zyro drawer state. Recovery Tools follow the master Security switch like every other locked Zyro section, while the real admin PIN and persistent lockout stay enforced while master Security is enabled."
 }
