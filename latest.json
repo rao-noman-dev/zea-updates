@@ -2,11 +2,11 @@
     "schemaVersion":  1,
     "packageName":  "com.raomuhammadnoman.zea",
     "channel":  "stable",
-    "versionCode":  128,
-    "versionName":  "1.0.128",
-    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/128/zyro-128.apk",
-    "sha256":  "bba758002e3b7cd041c89d10714fae3b0152103c069bc2eea59bbc3eca27b203",
-    "fileSizeBytes":  15909781,
-    "publishedAt":  "2026-10-13T11:47:10Z",
-    "releaseNotes":  "Drawer decoy icons can now be managed in bulk. App Details gains a Selection mode with Select All and Deselect All, plus bulk Enable and Disable actions (and Select All + Enable / Select All + Disable) so multiple apps\u0027 decoy launcher icons can be enabled or disabled together, with live progress and an honest per-app result summary (successful, failed, skipped) while unselected apps are left untouched. This release also carries the 1.0.127 schedule fixes: Time Hide begins at the schedule start, deleting a schedule no longer releases apps that must stay hidden, same-hour one-time schedules anchor to the correct window, and released apps are no longer pulled back into the fail-closed re-hide loop."
+    "versionCode":  129,
+    "versionName":  "1.0.129",
+    "apkUrl":  "https://rao-noman-dev.github.io/zea-updates/releases/129/zyro-129.apk",
+    "sha256":  "14057e503268e19e61ea4c27e18e04f6286e30607cf7d60063fd53fd82c84692",
+    "fileSizeBytes":  16008085,
+    "publishedAt":  "2026-10-21T05:53:22Z",
+    "releaseNotes":  "New protection foundations in this release. Permanent app restrictions (Phase 3) let an administrator block an exact Android package name with a real PIN; only verified Device Owner native hide or suspension counts as active, restrictions survive reboot and updates, and WhatsApp, YouTube, Zyro and critical system packages are always exempt. Explicit-content DNS protection adds opt-in Cloudflare Families and CleanBrowsing Family DNS-over-TLS presets with PIN-gated activation, readable Android Private DNS state, release and repair paths, plus a content-rules register for local explicit-domain block/allow requests and SafeSearch/YouTube Restricted Mode guidance, with clear on-screen limits where Android cannot enforce custom rules or inspect browser DoH, VPN DNS and in-app content. YouTube Shorts controls (best effort, Accessibility-based) navigate away from recognized Shorts screens. This release also fixes the special Play Store hide/unhide writer so it is no longer refused by the app blocklist, and makes Device Owner release sweep a stale special-control journal so owner removal cannot be blocked by an abandoned transaction."
 }
